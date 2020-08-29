@@ -11,7 +11,6 @@
 ![Dishant's Stats](https://github-readme-stats.vercel.app/api?username=horizon733&show_icons=true&hide_border=true&theme=buefy)
 ![Dishant's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=horizon733&theme=buefy&hide=css,html)
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
