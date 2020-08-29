@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋<br>I am Dishant<br> A young 😎Mobile app Developer and AI. ML learner</h2>
 
 - 👨‍🎓 IT Third Year student at UPG (A degree college😅)
 - 🌱 Currently learning Ai and ML
