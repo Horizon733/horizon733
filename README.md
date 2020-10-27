@@ -3,7 +3,7 @@
 - 👨‍🎓 IT Third Year student at UPG (A degree college😅)
 - 🌱 Currently learning Ai and ML
 - ⚒ Mastering Android Studio
-- 🔭 I’m currently working on [Covid Smart](https://github.com/Horizon733/Covid-Smart)
+- 🔭 I’m currently working on [Learn it](https://github.com/Horizon733/Learn-it-App)
 - 💬 Ask me about Android, Life, Motivation, graphics, Ai and ML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dishant-gandhi/)
 - ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
