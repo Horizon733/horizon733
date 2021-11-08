@@ -9,7 +9,7 @@
 
 ## Find me around web 🌏:
  - We can connect on <a href="https://www.linkedin.com/in/dishant-gandhi">LinkedIn</a><br>
- - You can find my awesome tutorials on chatbots <a href="https://www.youtube.com/channel/UCeLjtIGPExUN80nZJVJ8izQ">here</a><br>
+ - You can find my awesome tutorials on chatbots <a href="https://www.youtube.com/c/DroidCity/?sub_confirmation=1">here</a><br>
  - Find my blogs on <a href="https://medium.com/@dishant_gandhi">Medium</a><br>
 
 <br><br>
