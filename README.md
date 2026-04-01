@@ -24,8 +24,6 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 - 🔬 Currently: **AI/ML Consultant** @ Ruffalo Noel Levitz | **IEEE Young Professional**
 - 🎓 Pursuing **MCA in AI** @ Manipal University Jaipur
 
-## 🎙️ Recent Speaking Highlights
-
 <!-- WORKSHOPS:START -->
 <!-- WORKSHOPS:END -->
 
