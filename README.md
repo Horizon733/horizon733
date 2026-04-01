@@ -1,17 +1,39 @@
-## Hi, I'm Dishant👋
+<p align="center">
+<img width="500" alt="github-readme" src="https://github.com/user-attachments/assets/420fc58d-837a-406b-ab27-60aedcddbb3f" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dishant-gandhi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://x.com/@gandhi_dishant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@DroidCity"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@dishant_gandhi"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg"></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Website-2ECFB8?style=for-the-badge&logo=google-chrome&logoColor=white">
+</p>
 
 
-![github-profile](https://github.com/user-attachments/assets/4ba540e2-1d15-4ebc-bb0d-bc8af9c6096c)
 
+## About Me
 
+**"Transforming Ideas into Intelligent Solutions with AI and Innovation"**
 
+I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of experience building production-grade Conversational AI, LLM-powered systems, and RAG pipelines. I love bridging complex AI with real human problems.
 
-## Find me around web 🌏:
-<a href="https://www.youtube.com/c/DroidCity/?sub_confirmation=1"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg"></a>
-<a href="https://www.linkedin.com/in/dishant-gandhi"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
-<a href="https://x.com/gandhi_dishant"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg"></a><br>
+- 🎙️ **29x Keynote Speaker** at conferences across India & globally
+- 🏆 **7x Hackathon Winner** at Elastic, Snap.Inc, Rasa, and more
+- 👨‍🏫 **Mentored 500+** aspiring developers and AI engineers
+- ✍️ Active **Blogger** on [Medium](https://medium.com/@dishant_gandhi) & **YouTuber** at [DroidCity](https://youtube.com/c/DroidCity)
+- 🔬 Currently: **AI/ML Consultant** @ Ruffalo Noel Levitz | **IEEE Young Professional**
+- 🎓 Pursuing **MCA in AI** @ Manipal University Jaipur
 
-- Find my blogs on:
-  - <a href="https://medium.com/@dishant_gandhi">Medium</a><br>
-  - <a href="https://blog.langdb.ai/ai-powered-banking-chatbot-build-with-langchain-langdbai-and-rag-part-1">LangDB</a><br>
-<br><br>
+## 🎙️ Recent Speaking Highlights
+
+<!-- WORKSHOPS:START -->
+<!-- WORKSHOPS:END -->
+
+<div align="center">
+
+### 💡 Want mentorship, career advice, or AI consulting?
+
+[![Book on Topmate](https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20Session%20on%20Topmate-%232ECFB8?style=for-the-badge&logoColor=white)](https://topmate.io/dishant_gandhi)
+
+</div>
+
