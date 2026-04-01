@@ -18,7 +18,14 @@ jobs:
           from datetime import datetime
 
           API = "https://cms.dishantshomelab.xyz/items/workshops?sort=-event_date&limit=5"
-          data = json.loads(urllib.request.urlopen(API).read())["data"]
+          req = urllib.request.Request(
+              API,
+              headers={
+                  "User-Agent": "Mozilla/5.0",
+                  "Accept": "application/json",
+              },
+          )
+          data = json.loads(urllib.request.urlopen(req, timeout=20).read())["data"]
 
           rows = []
           for w in data:
