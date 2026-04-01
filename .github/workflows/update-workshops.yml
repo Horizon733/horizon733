@@ -1,0 +1,50 @@
+# .github/workflows/update-workshops.yml
+name: Update Workshops
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Every Monday
+  workflow_dispatch:   # Manual trigger too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch workshops & update README
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, re
+          from datetime import datetime
+
+          API = "https://cms.dishantshomelab.xyz/items/workshops?sort=-event_date&limit=5"
+          data = json.loads(urllib.request.urlopen(API).read())["data"]
+
+          rows = []
+          for w in data:
+            date = datetime.strptime(w['event_date'], '%Y-%m-%d').strftime('%b %Y')
+            mode = "📍 In-person" if w['event_mode'] == 'In-person' else "💻 Online"
+            name = w['event_name'].strip()
+            rows.append(f"| 🎤 | **{name}** | {date} | {mode} |")
+
+          table = "\n".join([
+            "## 🎙️ Recent Speaking & Workshops\n",
+            "| # | Event | Date | Mode |",
+            "|---|-------|------|------|",
+            *rows,
+            "\n➡️ [See all workshops →](https://dishantg.com)"
+          ])
+
+          readme = open("README.md").read()
+          updated = re.sub(
+            r"<!-- WORKSHOPS:START -->.*?<!-- WORKSHOPS:END -->",
+            f"<!-- WORKSHOPS:START -->\n{table}\n<!-- WORKSHOPS:END -->",
+            readme, flags=re.DOTALL
+          )
+          open("README.md", "w").write(updated)
+          print("✅ README updated with latest 5 workshops!")
+          EOF
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: auto-update workshops from CMS"
