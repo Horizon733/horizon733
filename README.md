@@ -25,6 +25,17 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 - 🎓 Pursuing **MCA in AI** @ Manipal University Jaipur
 
 <!-- WORKSHOPS:START -->
+## 🎙️ Recent Speaking & Workshops
+
+| # | Event | Date | Mode |
+|---|-------|------|------|
+| 🎤 | **Kong User Group Mumbai** | Nov 2025 | 📍 In-person |
+| 🎤 | **Mumbai MUG September Meetup** | Sep 2025 | 📍 In-person |
+| 🎤 | **AIoT Workshop at Thakur college** | Sep 2025 | 📍 In-person |
+| 🎤 | **Intro to Cognitive Computing - NCAAIET'25** | Sep 2025 | 💻 Online |
+| 🎤 | **LLMs, RAG, and AI Agents: Workshop - FOSS** | Aug 2025 | 📍 In-person |
+
+➡️ [See all workshops →](https://dishantg.com)
 <!-- WORKSHOPS:END -->
 
 <div align="center">
