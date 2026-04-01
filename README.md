@@ -29,11 +29,11 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 
 | # | Event | Date | Mode |
 |---|-------|------|------|
-| 🎤 | **Kong User Group Mumbai** | Nov 2025 | 📍 In-person |
-| 🎤 | **Mumbai MUG September Meetup** | Sep 2025 | 📍 In-person |
-| 🎤 | **AIoT Workshop at Thakur college** | Sep 2025 | 📍 In-person |
-| 🎤 | **Intro to Cognitive Computing - NCAAIET'25** | Sep 2025 | 💻 Online |
-| 🎤 | **LLMs, RAG, and AI Agents: Workshop - FOSS** | Aug 2025 | 📍 In-person |
+| 🎤 | **Mentor at Pragati 2.0 Build-itON** | Mar 2026 | 📍 In-person |
+| 🎤 | **Unlocking On-Device Intelligence with Small Language Models** | Feb 2026 | 💻 Online |
+| 🎤 | **Human Capital Enhancement for Workforce in AI** | Jan 2026 | 📍 In-person |
+| 🎤 | **Mentor at GDG Build and Grow 2.0** | Jan 2026 | 📍 In-person |
+| 🎤 | **AI as Teaching Assistant, not as replacement - Anon Global Foundation** | Jan 2026 | 💻 Online |
 
 ➡️ [See all workshops →](https://dishantg.com)
 <!-- WORKSHOPS:END -->
