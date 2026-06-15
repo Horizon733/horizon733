@@ -29,11 +29,11 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 
 | # | Event | Date | Mode |
 |---|-------|------|------|
-| 🎤 | **Jury at IEEE Saavishkar** | Apr 2026 | 📍 In-person |
+| 🎤 | **MCP + Agentic AI in JavaScript — JS Meetup Mumbai** | Jun 2026 | 📍 In-person |
 | 🎤 | **Agentic RAG systems with Elasticsearch** | Apr 2026 | 📍 In-person |
+| 🎤 | **Jury at IEEE Saavishkar** | Apr 2026 | 📍 In-person |
 | 🎤 | **Beyond Prompt: Agentic AI Workshop** | Apr 2026 | 💻 Online |
 | 🎤 | **Mentor at Pragati 2.0 Build-itON** | Mar 2026 | 📍 In-person |
-| 🎤 | **Unlocking On-Device Intelligence with Small Language Models** | Feb 2026 | 💻 Online |
 
 ➡️ [See all workshops →](https://dishantg.com)
 <!-- WORKSHOPS:END -->
