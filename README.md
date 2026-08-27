@@ -29,11 +29,11 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 
 | # | Event | Date | Mode |
 |---|-------|------|------|
-| 🎤 | **Mentoring at Level-Up hackathon** | Jul 2026 | 💻 Online |
-| 🎤 | **Clone your own Voice with AI** | Jun 2026 | 📍 In-person |
-| 🎤 | **MCP + Agentic AI in JavaScript — JS Meetup Mumbai** | Jun 2026 | 📍 In-person |
-| 🎤 | **Agentic RAG systems with Elasticsearch** | Apr 2026 | 📍 In-person |
-| 🎤 | **Jury at IEEE Saavishkar** | Apr 2026 | 📍 In-person |
+| 🎤 | **Build your Voice AI using only Javascript - JS Meetup Mumbai** | Aug 2026 | 📍 In-person |
+| 🎤 | **Speaker at GDG on Campus SIESGST, Navi Mumbai** | Aug 2026 | 📍 In-person |
+| 🎤 | **Jury at ITM Kharghar, Navi Mumbai** | Aug 2026 | 📍 In-person |
+| 🎤 | **Panelist at Saksam - RJIT College** | Aug 2026 | 📍 In-person |
+| 🎤 | **Judge at Rajiv Gandhi Institute of Technology** | Aug 2026 | 📍 In-person |
 
 ➡️ [See all workshops →](https://dishantg.com)
 <!-- WORKSHOPS:END -->
