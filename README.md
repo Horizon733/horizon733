@@ -17,9 +17,9 @@
 
 I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of experience building production-grade Conversational AI, LLM-powered systems, and RAG pipelines. I love bridging complex AI with real human problems.
 
-- 🎙️ **29x Keynote Speaker** at conferences across India & globally
+- 🎙️ **50x Keynote Speaker** at conferences across India & globally
 - 🏆 **7x Hackathon Winner** at Elastic, Snap.Inc, Rasa, and more
-- 👨‍🏫 **Mentored 4k+** aspiring developers and AI engineers
+- 👨‍🏫 **Mentored 4.5k+** aspiring developers and AI engineers
 - ✍️ Active **Blogger** on [Medium](https://medium.com/@dishant_gandhi) & **YouTuber** at [DroidCity](https://youtube.com/c/DroidCity)
 - 🔬 Currently: **AI/ML Consultant** @ Ruffalo Noel Levitz | **IEEE Young Professional**
 - 🎓 Pursuing **MCA in AI** @ Manipal University Jaipur
