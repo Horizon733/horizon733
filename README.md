@@ -29,11 +29,11 @@ I'm an **AI/ML Consultant & Engineer** based in Mumbai with **6+ years** of expe
 
 | # | Event | Date | Mode |
 |---|-------|------|------|
+| 🎤 | **On-Device LLM @ GDG MAD x DroidTribe** | Sep 2026 | 📍 In-person |
 | 🎤 | **Agentic AI: New frontier AI - Ignite Mumbai** | Aug 2026 | 📍 In-person |
 | 🎤 | **Build your Voice AI using only Javascript - JS Meetup Mumbai** | Aug 2026 | 📍 In-person |
 | 🎤 | **Speaker at GDG on Campus SIESGST, Navi Mumbai** | Aug 2026 | 📍 In-person |
 | 🎤 | **Jury at ITM Kharghar, Navi Mumbai** | Aug 2026 | 📍 In-person |
-| 🎤 | **Panelist at Saksam - RJIT College** | Aug 2026 | 📍 In-person |
 
 ➡️ [See all workshops →](https://dishantg.com)
 <!-- WORKSHOPS:END -->
